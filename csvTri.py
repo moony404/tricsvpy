@@ -28,4 +28,3 @@ for i in range(len(liste)):
     # On replace la valeur enregistrée dans la partie non triée de la liste
     liste[index_mini]=tmp
 # bon une fois qu'on a tout trier on peut passer a la partie où il faut associer chaque ville avec sa PTOT
-# print(liste)
